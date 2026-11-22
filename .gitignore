@@ -1,5 +1,0 @@
-__pycache__/
-.pytest_cache/
-*.py[cod]
-models/market_intelligence/*.joblib
-models/market_intelligence/*.tmp
