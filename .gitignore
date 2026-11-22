@@ -1,0 +1,4 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+# No model artifacts or persistent market-price history are used.
