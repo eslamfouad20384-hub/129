@@ -1,9 +1,9 @@
-streamlit>=1.40,<2
-pandas>=2.1.0
-numpy>=1.24,<3
-yfinance>=0.2.40
-ta>=0.11
-requests>=2.31
-beautifulsoup4>=4.12
+streamlit
+pandas
+numpy
+yfinance
+ta
+requests
+beautifulsoup
 lxml>=5.0
 openpyxl>=3.1
