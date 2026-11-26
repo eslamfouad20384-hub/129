@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-yfinance
-ta
-requests
-beautifulsoup
-lxml>=5.0
-openpyxl>=3.1
